@@ -10,7 +10,6 @@ Fraz Teleport System (Script Drop In!)
 
     The 2.0 version and beyond will only be contained in your Scripts folder.
     Point4D v1.1 resource required to use the new system.
-    https://www.servuo.com/archive/geometry-with-point4d.599/updates
 
     New version has the option to use the ServUO csv files and the previous versions custom files, or either or.
     Note: So no data files are needed extra, if you don't wish to use them.
