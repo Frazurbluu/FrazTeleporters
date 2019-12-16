@@ -9,7 +9,8 @@ Fraz Teleport System (Script Drop In!)
     It is not necessary to update, although the new version has a few benefits over the older version, of course. (See below)
 
     The 2.0 version and beyond will only be contained in your Scripts folder.
-    <B>Point4D v1.1 resource required to use the new system.</B>
+    
+    -->Point4D v1.1 resource required to use the new system.<--
 
     New version has the option to use the ServUO csv files and the previous versions custom files, or either or.
     Note: So no data files are needed extra, if you don't wish to use them.
