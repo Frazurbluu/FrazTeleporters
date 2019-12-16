@@ -2,7 +2,7 @@
 
 Fraz Teleport System (Script Drop In!)
 
-    Feb 3, 2017
+Feb 3, 2017
 
     This version is only compatible with the Data files from the previous version!
     If you wish to use v2.0 series you must remove the previous installation from your code if present!
@@ -14,6 +14,10 @@ Fraz Teleport System (Script Drop In!)
 
     New version has the option to use the ServUO csv files and the previous versions custom files, or either or.
     Note: So no data files are needed extra, if you don't wish to use them.
+
+    Data Entry Format:
+    #FROM-TO-LOC x,y,z,m TO-FROM-DEST x,y,z,m ACTIVE NPC COMBAT CRIMINAL FX FX1 SOUNDID DELAY ONEWAY BONDED
+
 
     I've been able to solve the problem I encountered earlier, it's amazing what stepping away from something for a bit can do... :)
 
